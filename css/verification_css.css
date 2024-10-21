@@ -1,0 +1,53 @@
+.wrapper {
+    margin: 3% 11% 2% 11%;
+    border: 2px solid #000;
+}
+#mainHead{
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+    margin-bottom: 3%;
+}
+.userDetails {
+    margin-left: 0%;
+}
+.userDetails span{
+	margin-left: 1%;
+    font-weight: normal;
+    font-size: 15px;
+}
+.userDetails h5 {
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+table th{
+	text-align: center;
+}
+.supervisorDetails h5 {
+    margin-bottom: 5%;
+    font-weight: bold;
+}
+.supervisorDetails {
+    margin-top: 12%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+td b {
+    font-size: 14px;
+}table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+td b {
+    font-size: 14px;
+}
